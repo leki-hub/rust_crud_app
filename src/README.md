@@ -1,0 +1,1 @@
+A simple Rust Crud app, with mysql db.
